@@ -1,0 +1,36 @@
+_repo: Poor-Jack-A-play-in-one-act_68576
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: https://en.wikipedia.org/wiki/James_Branch_Cabell
+description: 'Attributed to James Branch Cabell, but he denied responsibility.
+
+  Dramatization of Cabell''s story Love Letters of Falstaff, first published in The
+  Line of Love, 1905.'
+gutenberg_issued: '2022-07-21'
+identifiers:
+  gutenberg: '68576'
+language: en
+pgterms:marc904: https://archive.org/details/poorjackplayinon00jbcprich/page/n3/mode/2up
+pgterms:marc905: 20211024221347anonymous
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Privately Printed,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Falstaff, John, Sir (Fictitious character) -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: 'Poor Jack: A play in one act'
+url: http://www.gutenberg.org/ebooks/68576
