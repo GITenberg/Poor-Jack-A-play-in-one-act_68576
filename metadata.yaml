@@ -9,10 +9,15 @@ contributor:
     gutenberg_agent_id: '166'
     url: http://www.gutenberg.org/2009/agents/166
     wikipedia: https://en.wikipedia.org/wiki/James_Branch_Cabell
+covers:
+- cover_type: archival
+  image_path: 68576-h/images/cover.jpg
 description: 'Attributed to James Branch Cabell, but he denied responsibility.
 
   Dramatization of Cabell''s story Love Letters of Falstaff, first published in The
   Line of Love, 1905.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68576#Poor-Jack-A-play-in-one-act
 gutenberg_issued: '2022-07-21'
 identifiers:
   gutenberg: '68576'
